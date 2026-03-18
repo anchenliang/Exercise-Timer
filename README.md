@@ -1,7 +1,7 @@
 
 一个基于 Pygame 的视觉化间歇训练计时器
 
-![示例界面](https://i-blog.csdnimg.cn/direct/348c909bc4004ec0b83cd68ffe5994e0.png)  
+![示例界面](https://github.com/anchenliang/Exercise-Timer/blob/main/example.png)  
 
 ## 功能特点
 
