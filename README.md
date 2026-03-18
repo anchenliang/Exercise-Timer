@@ -1,9 +1,7 @@
-#Exercise Timer
 
 一个基于 Pygame 的视觉化间歇训练计时器
 
-![示例界面](screenshot.png)  
-*(建议添加一张实际运行截图)*
+![示例界面](https://i-blog.csdnimg.cn/direct/348c909bc4004ec0b83cd68ffe5994e0.png)  
 
 ## 功能特点
 
